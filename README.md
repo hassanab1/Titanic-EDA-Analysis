@@ -1,4 +1,4 @@
-# Titanic Survival Analysis 🚢
+# Titanic Survival Analysis
 
 ### Project Overview
 An Exploratory Data Analysis project investigating the factors that influenced survival rates on the Titanic.
